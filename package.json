@@ -15,9 +15,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/Hecktors/api-exercise-tracker.git"
+    "url": "https://github.com/Hecktors/api-exercise-tracker"
   },
-  "homepage": "https://deserted-loud-domain.glitch.me",
   "keywords": [
     "api",
     "exercise-tracker",
@@ -30,5 +29,5 @@
   "bugs": {
     "url": "https://github.com/Hecktors/api-exercise-tracker/issues"
   },
-  "homepage": "https://github.com/Hecktors/api-exercise-tracker#readme"
+  "homepage": "https://deserted-loud-domain.glitch.me"
 }
