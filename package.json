@@ -1,10 +1,10 @@
 {
   "name": "api-exercise-tracker",
-  "version": "1.0.0",
-  "description": "freecodecamp project",
+  "version": "0.1.0",
+  "description": "A REST API project, part of Free Code Camp's curriculum",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node server.js"
   },
   "dependencies": {
     "body-parser": "^1.19.0",
@@ -13,21 +13,17 @@
     "mongodb": "^3.3.3",
     "mongoose": "^5.7.7"
   },
+  "engines": {
+    "node": "10.17.0"
+  },
   "repository": {
-    "type": "git",
     "url": "https://github.com/Hecktors/api-exercise-tracker"
   },
-  "keywords": [
-    "api",
-    "exercise-tracker",
-    "freecodecamp",
-    "nodejs",
-    "mongodb"
-  ],
-  "author": "TH",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/Hecktors/api-exercise-tracker/issues"
-  },
-  "homepage": "https://deserted-loud-domain.glitch.me"
+  "keywords": [
+    "node",
+    "gomix",
+    "express"
+  ],
+  "homepage": "api-exercisetracker"
 }
